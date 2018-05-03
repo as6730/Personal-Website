@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("https://fonts.angellistapis.com/css?family=Lato:300,400,900");
 
 /*
 	Twenty by HTML5 UP
@@ -1849,30 +1849,21 @@
 				top: -0.2em;
 			}
 
-			.icon.circle.fa-twitter {
+			.icon.circle.fa-linkedin {
 				background: #70aecd;
 				color: #fff;
 			}
 
-				.icon.circle.fa-twitter:hover {
-					background: #7fb7d2;
-				}
-
-			.icon.circle.fa-facebook {
-				background: #7490c3;
-				color: #fff;
-			}
-
-				.icon.circle.fa-facebook:hover {
+				.icon.circle.fa-linkedin:hover {
 					background: #829bc9;
 				}
 
-			.icon.circle.fa-google-plus {
+			.icon.circle.fa-angellist-plus {
 				background: #db6b67;
 				color: #fff;
 			}
 
-				.icon.circle.fa-google-plus:hover {
+				.icon.circle.fa-angellist-plus:hover {
 					background: #df7b77;
 				}
 
@@ -1885,12 +1876,12 @@
 					background: #e1b89b;
 				}
 
-			.icon.circle.fa-dribbble {
+			.icon.circle.fa-angellist {
 				background: #da83ae;
 				color: #fff;
 			}
 
-				.icon.circle.fa-dribbble:hover {
+				.icon.circle.fa-angellist:hover {
 					background: #df93b8;
 				}
 

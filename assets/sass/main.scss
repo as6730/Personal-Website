@@ -2,7 +2,7 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("https://fonts.angellistapis.com/css?family=Lato:300,400,900");
 
 /*
 	Twenty by HTML5 UP
@@ -331,16 +331,16 @@
 				top: -0.2em;
 			}
 
-			&.fa-twitter {
-				background: _palette(twitter, bg);
-				color: _palette(twitter, fg);
+			&.fa-linkedin {
+				background: _palette(linkedin, bg);
+				color: _palette(linkedin, fg);
 
 				&:hover {
-					background: lighten(_palette(twitter, bg), 4);
+					background: lighten(_palette(linkedin, bg), 4);
 				}
 			}
 
-			&.fa-facebook {
+			&.fa-linkedin {
 				background: _palette(facebook, bg);
 				color: _palette(facebook, fg);
 
@@ -349,12 +349,12 @@
 				}
 			}
 
-			&.fa-google-plus {
-				background: _palette(google-plus, bg);
-				color: _palette(google-plus, fg);
+			&.fa-angellist-plus {
+				background: _palette(angellist-plus, bg);
+				color: _palette(angellist-plus, fg);
 
 				&:hover {
-					background: lighten(_palette(google-plus, bg), 4);
+					background: lighten(_palette(angellist-plus, bg), 4);
 				}
 			}
 
@@ -367,12 +367,12 @@
 				}
 			}
 
-			&.fa-dribbble {
-				background: _palette(dribbble, bg);
-				color: _palette(dribbble, fg);
+			&.fa-angellist {
+				background: _palette(angellist, bg);
+				color: _palette(angellist, fg);
 
 				&:hover {
-					background: lighten(_palette(dribbble, bg), 4);
+					background: lighten(_palette(angellist, bg), 4);
 				}
 			}
 		}
